@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Unit 11 Express Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:rrdavis22/note-taker-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrdavis22/note-taker-4/issues"
+  },
+  "homepage": "https://github.com/rrdavis22/note-taker-4#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "require-path": "^0.3.0"
+  }
+}
